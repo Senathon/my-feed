@@ -1,0 +1,16 @@
+{
+  "title": "Your Feed Title",
+  "link": "https://example.com",
+  "description": "A short description of what this feed is.",
+  "self_url": "https://example.com/feed.xml",
+  "language": "en",
+  "items": [
+    {
+      "title": "Example post",
+      "link": "https://example.com/posts/example",
+      "guid": "https://example.com/posts/example",
+      "published": "2025-12-25T00:30:59.173654+00:00",
+      "description_html": "This is an example item. Replace it with your own content."
+    }
+  ]
+}
